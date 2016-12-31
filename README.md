@@ -1,4 +1,4 @@
-#SocketApi Connect Connect - JAVA SDK
+#SocketApi Connect - JAVA SDK
 
 This SDK allows you to connect to Socket API blocks from your java app. To start off, follow the following guide:
 
